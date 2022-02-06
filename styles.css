@@ -1,0 +1,32 @@
+.box1{
+    width: 250px;
+    height: 150px;
+    background: red;
+    position: relative;
+    top: 141px;
+    left: 136px;
+}
+.box2{
+    width: 100px;
+    height: 250px;
+    background: brown;
+    position: absolute;
+    top: 50px;
+    left: 330px;
+}
+.box3{
+    width: 250px;
+    height: 150px;
+    background: darkblue;
+    position: absolute;
+    left: 330px;
+    top: 150px;
+}
+.box4{
+    width: 150px;
+    height: 80px;
+    background: skyblue;
+    position: absolute;
+    top: 191px;
+    left: 51px;
+}
